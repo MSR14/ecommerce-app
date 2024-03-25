@@ -1,0 +1,18 @@
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore log files
+*.log
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore sensitive or environment-specific files
+config/
+secrets.env
